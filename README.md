@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey, I'm Manasa Samanuri</h1>
+<h1 align="left">👋 Hey, I'm Samanuri Sri Manasa Varma</h1>
 
 I'm a passionate developer exploring full-stack development and AI/ML. I enjoy building real-world solutions and constantly upskilling in both backend and AI-based technologies.
 
