@@ -77,6 +77,6 @@ I'm a passionate developer exploring full-stack development and AI/ML. I enjoy b
 ## 🌐 Let's Connect
 
 - 🔗 Portfolio: [manasa-portfolio.vercel.app](https://manasaportfolio-six.vercel.app/)
-- 📧 Email: [your.email@example.com](mailto:ssrimanasavarma@gmail.com)
+- 📧 Email: [ssrimanasavarma@gmail.com](mailto:ssrimanasavarma@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/smanasavarma/)
 - 💻 GitHub: [github.com/manasaavarmaa](https://github.com/manasaavarmaa)
