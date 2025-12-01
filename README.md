@@ -61,4 +61,46 @@
 
 ---
 
-## 🏆 Gi
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=manasaavarmaa&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasaavarmaa&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasaavarmaa&theme=github-dark&hide_border=true" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasaavarmaa&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manasaavarmaa&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manasaavarmaa/manasaavarmaa/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 Portfolio: **https://manasaportfolio-six.vercel.app/**
+- 📧 Email: **ssrimanasavarma@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/smanasavarma/**
+- 💻 GitHub: **https://github.com/manasaavarmaa**
