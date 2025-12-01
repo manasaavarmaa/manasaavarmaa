@@ -58,16 +58,18 @@ I'm a passionate developer exploring full-stack development and AI/ML. I enjoy b
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasaavarmaa&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=manasaavarmaa&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasaavarmaa&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasaavarmaa&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=manasaavarmaa&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
+
 
 ---
 
