@@ -18,10 +18,10 @@ I'm a passionate developer exploring full-stack development and AI/ML. I enjoy b
 
 ## 💡 What I Do
 
-- 💻 Full Stack Development (React, Node.js, MongoDB, Express)
-- 🤖 AI/ML Projects (Image Captioning, Prompt-to-Image, Deep Learning)
-- 📊 SQL, HTML, CSS for data handling and frontend design
-- 🧩 Problem Solving, DSA & System Design
+- 💻 Full Stack Development (React, Node.js, MongoDB, Express)  
+- 🤖 AI/ML Projects (Image Captioning, Prompt-to-Image, Deep Learning)  
+- 📊 SQL, HTML, CSS for data handling and frontend design  
+- 🧩 Problem Solving, DSA & System Design  
 
 ---
 
@@ -30,7 +30,7 @@ I'm a passionate developer exploring full-stack development and AI/ML. I enjoy b
 - 🧠 **Brain Tumor Detector** – MRI classification using Deep Learning  
 - ❤️ **Heart Risk Assessment** – Predicts heart attack risk using ML  
 - 🖼️ **Image Captioning AI** – Flask + Gradio + DL + OpenAI  
-- 🎨 **Prompt-Based Image Generator** – Convert between image and text prompts using AI
+- 🎨 **Prompt-Based Image Generator** – Convert between image and text prompts using AI  
 
 ---
 
@@ -57,7 +57,7 @@ I'm a passionate developer exploring full-stack development and AI/ML. I enjoy b
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -70,12 +70,11 @@ I'm a passionate developer exploring full-stack development and AI/ML. I enjoy b
   <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=manasaavarmaa&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
-
 ---
 
 ## 🌐 Let's Connect
 
-- 🔗 Portfolio: [manasa-portfolio.vercel.app](https://manasaportfolio-six.vercel.app/)
-- 📧 Email: [ssrimanasavarma@gmail.com](mailto:ssrimanasavarma@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/smanasavarma](https://www.linkedin.com/in/smanasavarma/)
+- 🔗 Portfolio: [manasa-portfolio.vercel.app](https://manasaportfolio-six.vercel.app/)  
+- 📧 Email: [ssrimanasavarma@gmail.com](mailto:ssrimanasavarma@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/smanasavarma](https://www.linkedin.com/in/smanasavarma/)  
 - 💻 GitHub: [github.com/manasaavarmaa](https://github.com/manasaavarmaa)
