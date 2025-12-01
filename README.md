@@ -1,15 +1,19 @@
 <h1 align="center">👋 Hey, I'm Samanuri Sri Manasa Varma</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/Z8dK7yH.png" alt="Banner" width="100%">
-</p>
-
-<p align="center">
   <b>Full Stack Developer | AI/ML Enthusiast | Problem Solver</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manasaavarmaa&color=blue&style=flat">
+  <a href="https://github.com/manasaavarmaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ssrimanasavarma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/smanasavarma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -28,7 +32,7 @@
 - 🧠 **Brain Tumor Detector** – MRI classification using Deep Learning  
 - ❤️ **Heart Risk Assessment** – Predicts heart attack risk using ML  
 - 🖼️ **Image Captioning AI** – Flask + Gradio + Deep Learning  
-- 🎨 **Prompt-Based Image Generator** – Convert between image & text prompts using AI  
+- 🎨 **Prompt-Based Image Generator** – Convert image ↔ text prompts using AI
 
 ---
 
@@ -57,46 +61,4 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=manasaavarmaa&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=manasaavarmaa&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasaavarmaa&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=manasaavarmaa&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manasaavarmaa&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manasaavarmaa/manasaavarmaa/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-- 🔗 Portfolio: **https://manasaportfolio-six.vercel.app/**
-- 📧 Email: **ssrimanasavarma@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/smanasavarma/**
-- 💻 GitHub: **https://github.com/manasaavarmaa**
+## 🏆 Gi
