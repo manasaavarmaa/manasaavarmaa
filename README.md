@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Samanuri Sri Manasa Varma</h1>
 
 <p align="center">
-  <b>Full Stack Developer | AI/ML Enthusiast | Problem Solver</b>
+  <b>Full Stack Developer | AI/ML Enthusiast | Problem Solver | Data Analyst</b>
 </p>
 
 <p align="center">
