@@ -60,10 +60,9 @@ AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vi
 - 📜 NPTEL Certifications in Deep Learning and Java Programming
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasavarma&layout=compact&theme=dark" />
-</p>
----
+
+[![](https://ghstats.dev/api/card?username=YOUR_USERNAME&theme=forest&size=compact&compact_count=6)](https://github.com/manasaavarmaa/GitHub-profile-stats)
+
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/smanasavarma/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Manasa Varma's LinkedIn"/></a> <a href="mailto:ssrimanasavarma@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Manasa Varma's Email"/></a></p>
