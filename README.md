@@ -1,123 +1,244 @@
-<h1 align="center">Hi 👋, I'm Samanuri Sri Manasa Varma</h1>
+<div align="center">
 
-<h3 align="center">Aspiring Data Analyst • AIML Student • Machine Learning Enthusiast</h3>
+# ⚡ SAMANURI SRI MANASA VARMA ⚡
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Building+Data-Driven+Solutions;Final+Year+AIML+Student" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer;Generative+AI+Developer;RAG+Systems+Builder;Computer+Vision+Enthusiast;Tech+Lead;AIML+Undergraduate" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=manasaavarmaa&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=manasaavarmaa&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/manasaavarmaa?style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/stars/manasaavarmaa?style=for-the-badge&color=yellow" />
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 🌌 About Me
 
-🎓 Final Year B.Tech Student specializing in Artificial Intelligence & Machine Learning
+```yaml
+Name: Sri Manasa Varma Samanuri
 
-📊 Passionate about Data Analytics, Machine Learning, Data Science and Business Intelligence
+Education:
+  Degree: B.Tech AIML
+  CGPA: 9.05
 
-💡 Interested in transforming raw data into actionable insights
+Interests:
+  - Generative AI
+  - Large Language Models
+  - Retrieval Augmented Generation
+  - Computer Vision
+  - NLP
+  - AI Product Development
 
-🌱 Currently learning advanced Analytics, SQL Optimization, Power BI and ML Deployment
+Current Focus:
+  - Building Real World AI Systems
+  - RAG Architectures
+  - Semantic Search
+  - AI Agents
+  - Deep Learning
+```
 
-🎯 Actively seeking opportunities in:
-- Data Analytics
-- Data Science
+---
+
+# 🚀 Experience
+
+### ⚛️ Nuclear Fuel Complex (DAE)
+
+Student Trainee – Computer Division
+
+- Technical Analysis
+- Workflow Support
+- Requirement Analysis
+- Secure Documentation
+
+---
+
+### 🤖 Viswam.AI
+
+AI Developer Intern | Tech Lead
+
+- Led AI Development Team
+- Designed AI Workflows
+- Model Testing
+- Pipeline Optimization
+
+---
+
+### 💻 EY
+
+Software Development Intern
+
+- Backend Optimization
+- API Development
+- Frontend Integration
+- Scalable Applications
+
+---
+
+# 🧠 Featured Projects
+
+## 🔥 RAG Metadata Filtering System
+
+- Python
+- FAISS
+- LLMs
+- Metadata Search
+- Semantic Retrieval
+
+### Highlights
+
+✅ Metadata-Aware Search
+
+✅ Contextual AI Responses
+
+✅ Fast Retrieval Pipeline
+
+---
+
+## 🚁 AeroVision Drone Face Recognition
+
+### Tech
+
+- Swin Transformer
+- OpenCV
+- Deep Learning
+
+### Features
+
+✅ Real-Time Recognition
+
+✅ Drone-Based Detection
+
+✅ Grey Wolf Optimization
+
+---
+
+## 📄 ResumeIQ AI Resume Analyzer
+
+### Tech
+
+- Flask
+- OpenAI
+- NLP
+
+### Features
+
+✅ Resume Parsing
+
+✅ Skill Extraction
+
+✅ Semantic Job Matching
+
+---
+
+# ⚙️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,flask,mysql,mongodb,git,github,html,css,javascript,vscode"/>
+
+</div>
+
+---
+
+# 🧬 AI & ML Stack
+
+### Artificial Intelligence
+
 - Machine Learning
-- AI Engineering
+- Deep Learning
+- Computer Vision
+- NLP
+- Generative AI
+
+### GenAI
+
+- LLMs
+- Prompt Engineering
+- RAG Systems
+- Vector Databases
+- Semantic Search
+
+### Data Science
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ---
 
-# 🏆 Featured Projects
+# 🏆 Achievements
 
-### 📊 Customer Segmentation Analysis
-✔ K-Means Clustering  
-✔ Customer Behavior Analysis  
-✔ Marketing Insights Generation
+🥇 Winner – Google Developer Group GenAI Study Jams
 
-### 📈 Retail Demand Forecasting
-✔ Time Series Analysis  
-✔ Sales Prediction Models  
-✔ Inventory Optimization
+🎤 Presented AI Project at National Level Expo
 
-### 💰 Employee Salary Prediction
-✔ Regression Modeling  
-✔ Feature Engineering  
-✔ Data Visualization
+👨‍💻 Appointed Tech Lead for Telugu AI Solutions
 
-### 🩺 Diabetes Prediction
-✔ Healthcare Analytics  
-✔ Classification Models  
-✔ Predictive Insights
+🏅 Finalist – Innovation & Entrepreneurship Summit
 
----
+🎓 NPTEL Certifications
 
-# 💻 Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Data Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-## Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
-## Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+🎯 Conducted 5+ Technical Workshops
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manasaavarmaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manasaavarmaa&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manasaavarmaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manasaavarmaa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasaavarmaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
 # 🏅 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manasaavarmaa&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manasaavarmaa&theme=radical&row=2&column=4&margin-w=15"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Manasa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manasaavarmaa&theme=tokyo-night)](https://github.com/manasaavarmaa)
+[![Manasa Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manasaavarmaa&theme=tokyo-night)](https://github.com/manasaavarmaa)
+
+---
+
+# 🌟 Current Goals
+
+🚀 Master Advanced RAG Architectures
+
+🤖 Build Production Grade AI Applications
+
+🧠 Explore AI Agents & Multi-Agent Systems
+
+📚 Publish AI Research & Open Source Projects
+
+🌍 Contribute To Global AI Communities
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://www.linkedin.com/in/smanasavarma/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -126,13 +247,22 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
+<a href="https://github.com/manasaavarmaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://manasaportfolio-six.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-<p align="center">
-⭐ Turning Data into Insights | Building AI-Powered Solutions ⭐
-</p>
+<div align="center">
+
+### ⚡ Building the Future with AI ⚡
+
+*"Code. Learn. Innovate. Repeat."*
+
+</div>
