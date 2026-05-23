@@ -59,18 +59,9 @@ AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vi
 
 ---
 
-## 🏅 Coding Profiles
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/bhavani-sankar-komati/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Komati Bhavani Sankar's LinkedIn"/></a> <a href="mailto:bhavanisankarkomati@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Komati Bhavani Sankar's Email"/></a></p>
 
 <p align="center">
-  <a href="YOUR_LEETCODE_LINK">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-
-  <a href="YOUR_HACKERRANK_LINK">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-
-  <a href="YOUR_GFG_LINK">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
