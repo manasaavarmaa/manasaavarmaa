@@ -61,7 +61,11 @@ AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vi
 
 ---
 
-[![](https://ghstats.dev/api/card?username=YOUR_USERNAME&theme=forest&size=compact&compact_count=6)](https://github.com/manasaavarmaa/GitHub-profile-stats)
+<p align="center">
+  <a href="https://github.com/rowkav09/GitHub-profile-stats">
+    <img src="https://ghstats.dev/api/card?username=manasaavarmaa&theme=forest&size=compact&compact_count=6" />
+  </a>
+</p>
 
 
 ## 🔗 Connect with Me
