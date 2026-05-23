@@ -32,8 +32,14 @@ AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vi
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,mongodb,git,github,vscode,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,flask,mysql,mongodb,git,github,vscode,pytorch,tensorflow,opencv,linux,postman,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,flask,mysql,mongodb,pytorch,tensorflow,opencv,git,github,vscode,linux,postman,docker" />
 </p>
+
 
 ---
 
