@@ -1,14 +1,18 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" width="35px"> I'm Komati Bhavani Sankar
+  Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" width="35px"> I'm Sri Manasa Varma Samanuri
 </h1>
 
+<h3 align="center">
+AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vision
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KomatiBhavaniSankar&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=manasavarma&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://holopin.io/@komatibhavanisankar">
-    <img src="https://.holopin.io/@manasaavarmaa" alt="@manasaavarmaa Holopin badges" />
+  <a href="https://www.holopin.io/@manasaavarmaa">
+    <img src="https://holopin.me/manasaavarmaa" alt="Manasa Varma Holopin Badges" />
   </a>
 </p>
 
@@ -16,19 +20,19 @@
 
 ## 📌 About Me
 
-- 🎓 Final Year B.Tech Student
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
-- 🌐 Interested in Full Stack Web Development
-- 🚀 Building innovative projects that solve real-world problems
-- 📚 Continuously learning new technologies and improving problem-solving skills
-- 💡 Open to collaboration on AI, ML, and Web Development projects
+- 🎓 Final Year B.Tech AIML Student (CGPA: 9.05)
+- 🤖 Passionate about Generative AI, RAG Systems, NLP, and Computer Vision
+- 🚀 Building AI applications using LLMs, FAISS, Vector Databases, and Deep Learning
+- 💡 Interested in solving real-world problems through Artificial Intelligence
+- 🌱 Currently exploring Advanced LLM Applications and AI Agent Systems
+- 🤝 Open to internships, collaborations, and AI research opportunities
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,mysql,mongodb,git,github,tensorflow,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
@@ -37,19 +41,21 @@
 
 | Project | Description |
 |----------|------------|
-| AI Interview Assistant | AI-powered mock interview platform with personalized feedback |
-| Resume Analyzer | ATS-based resume screening and recommendation system |
-| Student Performance Predictor | Machine Learning model for predicting student outcomes |
-| Personal Portfolio Website | Responsive portfolio showcasing projects and achievements |
+| ResumeIQ | AI-powered resume analyzer using NLP and semantic matching |
+| RAG Metadata Filtering System | FAISS-powered retrieval system with metadata-aware search |
+| AeroVision | Drone-based face recognition system using Swin Transformer |
+| Personal Portfolio | Professional portfolio showcasing projects and achievements |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Active participant in coding contests and hackathons
-- 📜 Earned certifications in AI, ML, and related technologies
-- 🤝 Contributed to collaborative academic and personal projects
-- 🚀 Built multiple end-to-end AI and web development applications
+- 🏅 Tech Lead for AI solutions in low-resource Telugu language modeling
+- 🥇 Winner – Google Developer Group Gen AI Study Jams
+- 🚀 Presented AI project at National-Level Project Expo
+- 🎤 Conducted 5+ workshops as Microsoft Learn Student Ambassador
+- ⭐ Finalist – Innovation & Entrepreneurship Summit
+- 📜 NPTEL Certifications in Deep Learning and Java Programming
 
 ---
 
@@ -59,65 +65,12 @@
   <a href="YOUR_LEETCODE_LINK">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
   <a href="YOUR_HACKERRANK_LINK">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="YOUR_CODECHEF_LINK">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+
   <a href="YOUR_GFG_LINK">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <a href="https://github.com/KomatiBhavaniSankar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KomatiBhavaniSankar&show_icons=true&theme=dark&border_radius=10" alt="GitHub Stats" />
-  </a>
-
-  <img src="https://streak-stats.demolab.com/?user=KomatiBhavaniSankar&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=KomatiBhavaniSankar&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KomatiBhavaniSankar&theme=github-dark&radius=10" alt="Activity Graph" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomatiBhavaniSankar&layout=compact&theme=dark" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavani-sankar-komati/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF"/>
-  </a>
-
-  <a href="mailto:bhavanisankarkomati@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph" />
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
