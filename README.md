@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@komatibhavanisankar">
-    <img src="https://www.holopin.io/@manasaavarmaa" alt="@manasaavarmaa Holopin badges" />
+    <img src="https://.holopin.io/@manasaavarmaa" alt="@manasaavarmaa Holopin badges" />
   </a>
 </p>
 
