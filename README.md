@@ -33,11 +33,12 @@ AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vi
 
 <p align="center">
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,flask,mysql,mongodb,pytorch,tensorflow,opencv,git,github,vscode,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,nodejs,flask,mysql,mongodb,pytorch,tensorflow,opencv,git/>
   </p>
 <p align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i= github,vscode,postman,aws
+   <img src="https://skillicons.dev/icons?
+  i= github,vscode,postman,aws
 </p>
 
 
