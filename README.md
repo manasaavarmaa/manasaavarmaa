@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" width="35px"> I'm Sri Manasa Varma Samanuri
+  Hey <img src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif" width="35px"> I'm Sri Manasa Varma Samanuri
 </h1>
 
 <h3 align="center">
