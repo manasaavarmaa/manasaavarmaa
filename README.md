@@ -60,7 +60,7 @@ AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vi
 ---
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/bhavani-sankar-komati/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Komati Bhavani Sankar's LinkedIn"/></a> <a href="mailto:bhavanisankarkomati@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Komati Bhavani Sankar's Email"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/smanasavarma/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Komati Bhavani Sankar's LinkedIn"/></a> <a href="mailto:ssrimanasavarma@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Komati Bhavani Sankar's Email"/></a></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
