@@ -1,125 +1,138 @@
-<h1 align="center">👋 Hey, I'm Samanuri Sri Manasa Varma</h1>
+<h1 align="center">Hi 👋, I'm Samanuri Sri Manasa Varma</h1>
+
+<h3 align="center">Aspiring Data Analyst • AIML Student • Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <b>Aspiring Data Analyst | AIML Student | Machine Learning Enthusiast</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Building+Data-Driven+Solutions;Final+Year+AIML+Student" />
 </p>
 
 <p align="center">
-  Turning data into insights and building intelligent solutions through Analytics, Machine Learning, and AI.
-</p>
-
-<p align="center">
-  <a href="https://github.com/manasaavarmaa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:ssrimanasavarma@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/smanasavarma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=manasaavarmaa&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🚀 About Me
 
-🎓 Final Year B.Tech Student specializing in Artificial Intelligence and Machine Learning.
+🎓 Final Year B.Tech Student specializing in Artificial Intelligence & Machine Learning
 
-📊 Passionate about Data Analytics, Business Intelligence, Machine Learning, and Data-Driven Decision Making.
+📊 Passionate about Data Analytics, Machine Learning, Data Science and Business Intelligence
 
-🔍 Skilled in extracting insights from data, building predictive models, and creating analytical solutions.
+💡 Interested in transforming raw data into actionable insights
 
-🚀 Currently focused on developing projects involving Data Analytics, Machine Learning, SQL, Python, and Visualization.
+🌱 Currently learning advanced Analytics, SQL Optimization, Power BI and ML Deployment
+
+🎯 Actively seeking opportunities in:
+- Data Analytics
+- Data Science
+- Machine Learning
+- AI Engineering
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Featured Projects
 
 ### 📊 Customer Segmentation Analysis
-- Performed customer clustering using K-Means.
-- Identified customer groups based on purchasing behavior.
-- Generated actionable marketing insights.
+✔ K-Means Clustering  
+✔ Customer Behavior Analysis  
+✔ Marketing Insights Generation
 
 ### 📈 Retail Demand Forecasting
-- Forecasted future product demand using historical sales data.
-- Applied predictive analytics techniques.
-- Improved inventory planning strategies.
+✔ Time Series Analysis  
+✔ Sales Prediction Models  
+✔ Inventory Optimization
 
 ### 💰 Employee Salary Prediction
-- Built regression models to predict salaries.
-- Performed feature engineering and model evaluation.
-- Analyzed factors influencing employee compensation.
+✔ Regression Modeling  
+✔ Feature Engineering  
+✔ Data Visualization
 
 ### 🩺 Diabetes Prediction
-- Developed a healthcare analytics model.
-- Conducted data preprocessing and predictive modeling.
-- Applied classification algorithms for disease prediction.
+✔ Healthcare Analytics  
+✔ Classification Models  
+✔ Predictive Insights
 
 ---
 
-## 🛠️ Technical Skills
+# 💻 Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+## Languages
 
-### Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+## Data Analytics
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasaavarmaa&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasaavarmaa&theme=github-dark&hide_border=true" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manasaavarmaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manasaavarmaa&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasaavarmaa&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasaavarmaa&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Career Interests
+# 🏅 GitHub Trophies
 
-- Data Analytics
-- Business Intelligence
-- Machine Learning
-- Data Science
-- AI-Powered Solutions
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manasaavarmaa&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-📧 Email: **ssrimanasavarma@gmail.com**
-
-💼 LinkedIn: **https://www.linkedin.com/in/smanasavarma/**
-
-💻 GitHub: **https://github.com/manasaavarmaa**
-
-🌍 Portfolio: **https://manasaportfolio-six.vercel.app/**
+[![Manasa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manasaavarmaa&theme=tokyo-night)](https://github.com/manasaavarmaa)
 
 ---
 
-⭐ Exploring Data. Building Intelligence. Creating Impact.
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/smanasavarma/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ssrimanasavarma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://manasaportfolio-six.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Turning Data into Insights | Building AI-Powered Solutions ⭐
+</p>
