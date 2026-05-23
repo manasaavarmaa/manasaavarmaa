@@ -46,7 +46,6 @@ AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vi
 | ResumeIQ | AI-powered resume analyzer using NLP and semantic matching |
 | RAG Metadata Filtering System | FAISS-powered retrieval system with metadata-aware search |
 | AeroVision | Drone-based face recognition system using Swin Transformer |
-| Personal Portfolio | Professional portfolio showcasing projects and achievements |
 
 ---
 
