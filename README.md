@@ -32,7 +32,7 @@ AI & Machine Learning Engineer | Generative AI | RAG Systems | NLP | Computer Vi
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,mongodb,git,github,vscode,LLM,RAG,machinelearning" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,mongodb,git,github,vscode,seaborn" />
 </p>
 
 ---
